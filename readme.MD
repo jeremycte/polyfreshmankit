@@ -1,4 +1,4 @@
-# Welcome to Digital Kampong Admin Console
+# Welcome to Poly Freshman Starter Kit Website Code
 
 ## At a glance 🔥
 This is an introduction to PolyFreshmanKit Website. 
